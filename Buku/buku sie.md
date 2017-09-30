@@ -43,18 +43,7 @@ dan tujuan (goal)
 
 <img src="https://preview.ibb.co/m3tWiw/Untitled.png" alt="Untitled" border="0"><br />
 
-Koreksi
-Perhitungan
-Data
-
-Pengelompokan
-
-Informasi
-
-Kontekstualisasi
-Kondensasi
-
-Gambar 1.1 Hubungan Data dan Informasi[11]
+Gambar 1.1 Hubungan Data dan Informasi <a href="#11" title="11">[11]</a>
 
 Sebagaimana yang ditunjukkan pada gambar 1.1, sebuah sistem informasi
 akan memasukkan data, kemudian memprosesnya sedemikian rupa sesuai
@@ -4207,8 +4196,8 @@ Unikom
 Asuransi Kesehatan Berbasis Platform As a Service Menggunakan
 Framework Zachman, Tesis Pasca Sarjana Sistem Informasi STMIKLIKMI
 10. Havey Mike, 2005, Essential Business Process Modeling, O’Reilly
-11. Jogianto H. M., 2006, Analisis dan Desain Sistem Informasi: Pendekatan
-Terstruktur Teori dan Praktek Aplikasi Bisnis, Penerbit Andi
+<h5 id="11">11. Jogianto H. M., 2006, Analisis dan Desain Sistem Informasi: Pendekatan
+Terstruktur Teori dan Praktek Aplikasi Bisnis, Penerbit Andi</h5>
 12. Juric Matjaz B., Loganathan Ramesh, Sarang Poornachandra, Jennings
 Frank, 2007, SOA Approah to Integration, Packt Publishing
 13. Laplante Philip A., 2007, What Every Engineer Should Know About
