@@ -2,42 +2,46 @@
 SISTEM INFORMASI
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-1.1 Istilah Sistem Informasi
+#1.1 Istilah Sistem Informasi
 Sistem informasi, secara umum didefinisikan oleh H. M. Jogianto (2006)
 sebagai berikut:
-“Sistem adalah suatu jaringan kerja dari prosedur-prosedur yang
+>Sistem adalah suatu jaringan kerja dari prosedur-prosedur yang
 saling berhubungan, berkumpul bersama-sama untuk melakukan
 suatu kegiatan atau untuk menyelesaikan sasaran yang tertentu”
+
 Sedangkan, Kenneth Laudon C (2012) mendefinisikan sistem informasi
 sebagai berikut:
-“a set of interrelated components that collect (or retrieve), process,
+>“a set of interrelated components that collect (or retrieve), process,
 store, and distribute information to support decision making and
 control in an organization. In addition to supporting decision
 making, coordination and control, information systems may also
 help managers and workers analyze problems, visualize complex
 subjects, and create new prducts.”
+
 Dengan demikian, sistem informasi bisa didefinisikan dari sisi prosedur
 maupun dari sisi komponen pendukungnya. Intinya adalah sebuah sistem yang
 memanfaatkan data dengan peralatan teknologi yang memadai sehingga bisa
 menghasilkan informasi yang dapat digunakan dalam menunjang berbagai
 proses bisnis mulai dari level operasional sampai dengan level pengambilan
 keputusan tertinggi.
+
 Pada era digital seperti saat ini sistem informasi tidak terlepas dari bantuan
 perangkat komputer dan jaringan internet/intranet, sehingga sering disebut
 juga dengan sebutan lengkap computer based information system. Saat ini,
 apabila disebut dengan sistem informasi artinya sudah pasti mengacu pada
 suatu sistem informasi yang menggunakan komputer sebagai alat bantunya,
-dan harus bisa diakses melalui internet. Seiring dengan perkembangan
-teknologi informasi terutama perangkat mobile seperti tablet, smartphone,
-1
+dan harus bisa diakses melalui internet. 
 
-laptop, maka sistem informasi saat ini dituntut untuk bisa diakses dengan cepat
+Seiring dengan perkembangan teknologi informasi terutama perangkat mobile seperti tablet, smartphone, laptop, maka sistem informasi saat ini dituntut untuk bisa diakses dengan cepat
 dari dan kapan saja.
+
 Sistem informasi memiliki beberapa ciri atau karakteristik yaitu
 komponen sistem (componenents), batasan sistem (boundary), lingkungan
 sistem (environments), penghubung sistem (interface), Masukan sistem
 (input), pengolahan (processing), keluaran sistem (output), sasaran (objective)
 dan tujuan (goal)
+
+<img src="https://preview.ibb.co/m3tWiw/Untitled.png" alt="Untitled" border="0"><br />
 
 Koreksi
 Perhitungan
