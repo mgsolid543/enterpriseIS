@@ -1,8 +1,8 @@
-█ Bab 1
-SISTEM INFORMASI
+## █ Bab 1
+# SISTEM INFORMASI
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-#1.1 Istilah Sistem Informasi
+# 1.1 Istilah Sistem Informasi
 Sistem informasi, secara umum didefinisikan oleh H. M. Jogianto (2006)
 sebagai berikut:
 >Sistem adalah suatu jaringan kerja dari prosedur-prosedur yang
