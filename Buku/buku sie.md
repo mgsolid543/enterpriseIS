@@ -43,7 +43,7 @@ dan tujuan (goal)
 
 <img src="https://preview.ibb.co/m3tWiw/Untitled.png" alt="Untitled" border="0"><br />
 
-Gambar 1.1 Hubungan Data dan Informasi <a href="#11" title="11">[11]</a>
+**Gambar 1.1 Hubungan Data dan Informasi** <a href="#11" title="11">[11]</a>
 
 Sebagaimana yang ditunjukkan pada gambar 1.1, sebuah sistem informasi
 akan memasukkan data, kemudian memprosesnya sedemikian rupa sesuai
@@ -51,30 +51,28 @@ dengan jenis atau karakter masing-masing sistem, sehingga akhirnya
 dihasilkan informasi yang berkualitas yaitu valid bebas dari kesalahan, tepat
 waktu, dan relevan dengan kebutuhan proses bisnis.
 
-1.2 Sumber Daya Teknologi Informasi
+# 1.2 Sumber Daya Teknologi Informasi
 Sebagaimana sumber daya lain, sumber daya teknologi informasi
 memiliki peranan yang sangat penting dalam menunjang kesuksesan
 penerapan sistem informasi di dalam suatu enterprise. Pemanfaatan teknologi
 informasi secara tepat dapat mendukung sepenuhnya keseluruhan rangkaian
-proses bisnis dalam sebuah enterprise. Sumber daya teknologi informasi pada
-2
-
-dasarnya terdiri dari tiga komponen utama sebagaimana dijelaskan pada
+proses bisnis dalam sebuah enterprise. Sumber daya teknologi informasi pada dasarnya terdiri dari tiga komponen utama sebagaimana dijelaskan pada
 gambar 1.2.
 
-Gambar 1.2 Sumber Daya Teknologi Informasi[15]
+<img src="https://preview.ibb.co/dUGywG/Untitled.png" alt="Untitled" border="0"><br />
+**Gambar 1.2 Sumber Daya Teknologi Informasi**<a href="#15" title="15">[15]</a>
 
-1. Information Technology
+*1. Information Technology*
 Teknologi informasi adalah salah satu pendukung utama suatu
 enterprise. Infrastruktur teknologi informasi yang dibutuhkan untuk
 mendukung kelancaran proses bisnis secara menyeluruh.
 Infrastruruktur ini mencakup software, hardware dan communication
 technology.
-2. Information
+*2. Information*
 Sumber pengambilan kebijakan dan keputusan oleh suatu enterprise
 yang bersasa dari data-data yang terkumpul dari dalam dan luar
 enterprise.
-3. People
+*3. People*
 Yang menjadi kunci utama sebagai pelaku sistem yang telah
 disediakan. karena pada dasarnya sebuah sistem bukanlah sebuah robot
 pintar yang bisa berjalan sendiri dan mengambil keputusan sendiri.
