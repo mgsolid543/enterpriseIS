@@ -4172,66 +4172,65 @@ Physical Data Model
 Gambar 8.8 Framework DoD C4ISR
 107
 
-Daftar Pustaka
-1. Ambler Scott W. Nalbone John, Vizdos Michael J., 2005, The Enterprise
+# Daftar Pustaka
+<h5>1. Ambler Scott W. Nalbone John, Vizdos Michael J., 2005, The Enterprise
 Unified Process: Extending the Rational Unified Process, Prentice Hall
 PTR
-2. Booch Grady, Maksimchuk R. A, dll, 2007, Object-Oriented Analysis and
+<h5>2. Booch Grady, Maksimchuk R. A, dll, 2007, Object-Oriented Analysis and
 Design with Applications Third Edition, Addison-Wesley Publishing
-3. Dhewanto Wawan, Falahah, 2007, ERP Menyelaraskan Teknologi
+<h5>3. Dhewanto Wawan, Falahah, 2007, ERP Menyelaraskan Teknologi
 Informasi dengan Strategi Bisnis, Penerbit Informatika
-4. Fowler Martin, 2004, UML Distillled , 3th Ed,., A Brief Guide to the
+<h5>4. Fowler Martin, 2004, UML Distillled , 3th Ed,., A Brief Guide to the
 Standard Object, Pearson Education, Inc.
-5. Godinez Mario,Hechler Eberhard, Koenig Klaus, dll, 2010, The Art of
+<h5>5. Godinez Mario,Hechler Eberhard, Koenig Klaus, dll, 2010, The Art of
 Enterprise Information Architecture, IBM Press
-6. Hamdani Dadi, 2014, Model Enterprise Architecture Untuk Sekolah
+<h5>6. Hamdani Dadi, 2014, Model Enterprise Architecture Untuk Sekolah
 Menengah Atas Menggunakan Metode Enterprise Unified Process, Tesis
 Pasca Sarjana Sistem Informasi STMIK-LIKMI
-7. Harrion Rachel, 2009, TOGAFTM 9 Foundation Study Guide, Van Haren
+<h5>7. Harrion Rachel, 2009, TOGAFTM 9 Foundation Study Guide, Van Haren
 Publishing
-8. Hardiana Bella, 2013, Pembuatan Enterprise Architecture di P2I-LIPI
+<h5>8. Hardiana Bella, 2013, Pembuatan Enterprise Architecture di P2I-LIPI
 Bandung Menggunakan EAP, Tesis Pasca Sarjana Sistem Informasi
 Unikom
-9. Herdiana Rudi Bambang, 2014, Perancangan Arsitektur Sistem Informasi
+<h5>9. Herdiana Rudi Bambang, 2014, Perancangan Arsitektur Sistem Informasi
 Asuransi Kesehatan Berbasis Platform As a Service Menggunakan
 Framework Zachman, Tesis Pasca Sarjana Sistem Informasi STMIKLIKMI
-10. Havey Mike, 2005, Essential Business Process Modeling, O’Reilly
+<h5>10. Havey Mike, 2005, Essential Business Process Modeling, O’Reilly
 <h5 id="11">11. Jogianto H. M., 2006, Analisis dan Desain Sistem Informasi: Pendekatan
 Terstruktur Teori dan Praktek Aplikasi Bisnis, Penerbit Andi</h5>
-12. Juric Matjaz B., Loganathan Ramesh, Sarang Poornachandra, Jennings
+<h5>12. Juric Matjaz B., Loganathan Ramesh, Sarang Poornachandra, Jennings
 Frank, 2007, SOA Approah to Integration, Packt Publishing
-13. Laplante Philip A., 2007, What Every Engineer Should Know About
+<h5>13. Laplante Philip A., 2007, What Every Engineer Should Know About
 Software Engineering, CRC Press
-14. Lam Wing, Shankararaman, 2007, Enterprise Architecture and Integration,
+<h5>14. Lam Wing, Shankararaman, 2007, Enterprise Architecture and Integration,
 Information Science Reference
-15. Laudon Kenneth C., Laudon Jane P., 2012, Management Information
+<h5>15. Laudon Kenneth C., Laudon Jane P., 2012, Management Information
 Systems (Managing the Digital Firm), Pearson Education, Inc.
-16. Minoli Daniel, 2008, Enterprise Architecture A to Z, CRC Press
-17. Nagappan Ramesh, Skoczylas Robert, Sriganesh Rima Patel, Developing
+<h5>16. Minoli Daniel, 2008, Enterprise Architecture A to Z, CRC Press
+<h5>17. Nagappan Ramesh, Skoczylas Robert, Sriganesh Rima Patel, Developing
 Java Web Services, Wiley Publishing, Inc.
-18. Maulana Firmansyah, 2015, Perancangan Arsitektur Enterprise Untuk
+<h5>18. Maulana Firmansyah, 2015, Perancangan Arsitektur Enterprise Untuk
 Pembuatan Blueprint Teknologi Informasi, Tesis Pasca Sarjana Sistem
 Informasi STMIK-LIKMI
-19. Munawar, 2005, Pemodelan Visual, Penerbit Graha Ilmu
-108
+<h5>19. Munawar, 2005, Pemodelan Visual, Penerbit Graha Ilmu
 
-20. Neves Gabriel, 2013, Pemanfaatan Enterprise Architecture Planning
+<h5>20. Neves Gabriel, 2013, Pemanfaatan Enterprise Architecture Planning
 Sebagai Alat Perencanaan dan Pemodelan Proses Bisnis Guna Mendukung
 Sistem Informasi pada Institute of Business (IOB) Dili Timor-Leste, Tesis
 Pasca Sarjana Sistem Informasi Unikom
-21. Prasetyo Tri Ferga, 2015, Perancangan Arsitektur Sistem Informasi
+<h5>21. Prasetyo Tri Ferga, 2015, Perancangan Arsitektur Sistem Informasi
 Rumah Sakit Kabupaten Menggunakan Framework TOGAF, Tesis Pasca
 Sarjana Sistem Informasi STMIK-LIKMI
-22. Rifai Mochamad Farid, 2011, Perencanaan Arsitektur Enterprise
+<h5>22. Rifai Mochamad Farid, 2011, Perencanaan Arsitektur Enterprise
 Perguruan Tinggi dengan Menggunakan Enterprise Unified Process, Tesis
 Pasca Sarjana Sistem Informasi STMIK-LIKMI
-23. Rizky Soetam, 2011, Konsep Dasar Rekayasa Perangkat Lunak, Penerbit
+<h5>23. Rizky Soetam, 2011, Konsep Dasar Rekayasa Perangkat Lunak, Penerbit
 Prestasi Pustaka
-24. Rosenberg Doug, Scott Kendall, 2001, Applying Use Case Driven Object
+<h5>24. Rosenberg Doug, Scott Kendall, 2001, Applying Use Case Driven Object
 Modeling with UML, Addion-Wesley Publishing
-25. Roshen Waseem, 2009, SOA-BASED Enterprise Integration: A Step by
+<h5>25. Roshen Waseem, 2009, SOA-BASED Enterprise Integration: A Step by
 Step Guide to Services-Based Application Integration, Mc Graw Hill
-26. Rumapea Sri Agustina, 2010, Analisis Proses Bisnis Pada Distributor Xyz
+<h5>26. Rumapea Sri Agustina, 2010, Analisis Proses Bisnis Pada Distributor Xyz
 Menggunakan
 Tools
 Pemodelan
@@ -4239,33 +4238,32 @@ Idef0,
 Seminar
 Nasional
 AplikasiTeknologi Informasi (SNATI 2010)
-27. Rumapea Sri Agustina, Suredro Kridanto, 2007, Perencanaan Arsitektur
+<h5>27. Rumapea Sri Agustina, Suredro Kridanto, 2007, Perencanaan Arsitektur
 Enterprise Penyelenggaraan Pelayanan Terpadu Satu Pintu, Seminar
 Nasional AplikasiTeknologi Informasi (SNATI 2007)
-28. Salahuddin M., A. S. Rossa, 2011, Rekayasan Perangkat Lunak
+<h5>28. Salahuddin M., A. S. Rossa, 2011, Rekayasan Perangkat Lunak
 (Terstruktur dan Berorientasi Objek), Penerbit Modula.
-29. Setiawan Ridwan, 2015, Perancangan Arsitektur Enterprise E-STTG
+<h5>29. Setiawan Ridwan, 2015, Perancangan Arsitektur Enterprise E-STTG
 Menggunakan TOGAF ADM, Tesis Pasca Sarjana Sistem Informasi
 STMIK-LIKMI
-30. Sobiki Petrus, 2015, Perencanaan Arsitektur Sistem Informasi Perguruan
+<h5>30. Sobiki Petrus, 2015, Perencanaan Arsitektur Sistem Informasi Perguruan
 Tinggi Menggunakan Metode Enterprise Unified Process, Tesis Pasca
 Sarjana Sistem Informasi Unikom
-31. Spewak Steven H., Hill Steven C., 1992, Enterprise Architecture Planning,
+<h5>31. Spewak Steven H., Hill Steven C., 1992, Enterprise Architecture Planning,
 John Wiley & Sons, Inc.
-32. Surendro Kridanto, 2009, Pengembangan Rencana Induk Sistem
+<h5>32. Surendro Kridanto, 2009, Pengembangan Rencana Induk Sistem
 Informasi, Penerbit Informatika
-33. Surendro Kridanto, 2009, Implementasi Tata Kelola Teknologi Informasi,
+<h5>33. Surendro Kridanto, 2009, Implementasi Tata Kelola Teknologi Informasi,
 Penerbit Informatika
-34. Tim Elcon, 2012, Cloud Computing, Penerbit Andi
-35. Theuerkorn Fenix, 2004, LightWeight Enterprise Architectures, Auerbach
+<h5>34. Tim Elcon, 2012, Cloud Computing, Penerbit Andi
+<h5>35. Theuerkorn Fenix, 2004, LightWeight Enterprise Architectures, Auerbach
 Publications
-36. Yunis Roni, Surendro Kridanto, 2009, Perancangan Model Enterprise
+<h5>36. Yunis Roni, Surendro Kridanto, 2009, Perancangan Model Enterprise
 Architecture dengan TOGAF Architecture Development Method, Seminar
 Nasional Aplikasi Teknologi Informasi (SNATI 2009)
+</h5>
 
-109
-
-Biodata Penulis
+# Biodata Penulis
 Nama Lengkap
 Tempat/Tanggal Lahir
 Pendidikan
